@@ -1,0 +1,2 @@
+For smooth scrolling locomotive js library is used
+for animations gsap is used
