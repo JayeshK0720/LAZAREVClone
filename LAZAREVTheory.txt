@@ -1,2 +1,33 @@
 For smooth scrolling locomotive js library is used
 for animations gsap is used
+
+What's the use of div?
+Div is used as a container to contain different things,
+Div is used to make sections in website, to make divisions in website,
+Div is also used as to make rectangular shape.
+
+
+getBoundingClientRect() method is used to known the dimensions of the element
+i.e., where exactly it is occur? on x-axis where, on y where?, element height, width and many more...
+
+Position:sticky   // it is combination of relative and fixed 
+// by default it is relative but top:15% it will fix it.
+
+Details Tag ->>>
+<details> // <details open> if we put this automatically opens when web is loaded.
+	<summary></summary>  // this is always first tag  
+	// ^^^ after clicking on it next thing will open
+	<p></p>
+</details>
+
+
+stagger:-0.2   // sends one by one
+stagger:{
+	
+}
+
+
+
+gsap -> used for moving animations
+scrollTrigger -> used for scrolling animations
+locomotive js -> used for smooth scrolling
